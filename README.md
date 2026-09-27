@@ -51,13 +51,13 @@ O programa aplica as seguintes opções de resposta:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Prada-07/pesquisa-de-opinião.git
+git clone https://github.com/Prada-07/pesquisa-de-opiniao.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd pesquisa-satisfacao-tudoweb
+cd pesquisa-de-opiniao
 ```
 
 3. Execute o programa:
